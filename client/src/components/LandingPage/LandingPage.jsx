@@ -25,7 +25,7 @@ const LandingPage = () => {
       {loading ? (
         <Loader />
       ) : (
-        <div className="heroContent">
+        <div className="LandingPage">
           <p data-aos="zoom-in-up" data-aos-duration="1000">
             Open the doors to endless learning possibilities with our online
             tutorials. From programming to design, we've got you covered on your
