@@ -1,4 +1,4 @@
 # querycrew
 
-Front End - React
+Front End - React JS
 Back End - Django
